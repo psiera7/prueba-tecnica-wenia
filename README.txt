@@ -36,7 +36,6 @@ Configuración:
 Reemplaza la clave de la API de Google Maps en el script.
 
 Por qué necesitas una clave de API de Google Maps válida?
-
 La geocodificación de direcciones consume recursos de Google. La clave de API es un identificador único que autentica tus solicitudes y permite a Google rastrear el uso. Sin una clave válida, la API deniega el acceso, y la funcionalidad de mapeo del script no funcionará.
 
 Asegurate de tener tus credenciales de AWS configuradas.
