@@ -1,0 +1,6 @@
+pandas
+requests
+fuzzywuzzy
+folium
+boto3
+python-dotenv
